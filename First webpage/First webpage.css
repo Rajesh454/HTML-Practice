@@ -1,0 +1,42 @@
+button{
+    font-style:initial;
+    color: aliceblue;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 50px;
+    margin-top: 173px;
+    margin-right: 53px;
+    cursor: pointer;
+}
+.head{
+    background-image: url("OrderNow.jpg");
+    padding-bottom:5% ;
+}
+.hr-lines:after{
+    content:" ";
+    height: 2px;
+    width: 850px;
+    background: rgb(82, 80, 80);
+    display: block;
+    position: absolute;
+    top: 63.3%;
+    right: 11%;
+  }
+  .hr-lines{
+    margin-right: 890px;
+  }
+  .column {
+    width: 265px;
+    height: 250px;
+    margin: 1%;
+    display:inline-block;
+    background: #f8f7f5;
+    position: relative;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.list{
+    
+    cursor: pointer;
+}
